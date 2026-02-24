@@ -1,5 +1,4 @@
-<<<<<<< HEAD
+
 This file is under master branch
-=======
+
 This is a file under First branch
->>>>>>> first
